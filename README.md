@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forid1026&label=Profile%20views&color=0e75b6&style=flat" alt="forid1026" /> </p>
 
 
-<img align="right" width="400" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
+<img align="right" width="350" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
 
 - 🌱 I’m currently learning **Rest Api & Vue JS**
 
