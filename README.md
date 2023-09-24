@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forid1026" alt="forid1026" /></a> </p>
 
 
-<img align="right" width="300" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
+<img align="right" width="400" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
 
 - 🌱 I’m currently learning **Rest Api & Vue JS**
 
