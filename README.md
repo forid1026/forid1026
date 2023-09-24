@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forid1026&label=Profile%20views&color=0e75b6&style=flat" alt="forid1026" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forid1026" alt="forid1026" /></a> </p>
-
 
 <img align="right" width="400" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
 
