@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/forid1026/
 
-- 💬 Ask me about **web development related**
+- 💬 Ask me about **related to web development**
 
 - 📫 How to reach me **foridsheek@gmail.com**
 
