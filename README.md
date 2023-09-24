@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rest Api & Vue JS**
 
-- 👨‍💻 All of my projects are available at [https://faridsheikh.netlify.app/](https://faridsheikh.netlify.app/)
+- 👨‍💻 All of my projects are available at https://github.com/forid1026/
 
 - 💬 Ask me about **web development related**
 
