@@ -17,6 +17,7 @@
 
 - 📄 Know about my experiences [2+ Years]
 
+<img src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sfarid1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sfarid1026" height="30" width="40" /></a>
