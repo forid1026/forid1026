@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheikh Farid</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Software+Developer+)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forid1026&label=Profile%20views&color=0e75b6&style=flat" alt="forid1026" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forid1026" alt="forid1026" /></a> </p>
