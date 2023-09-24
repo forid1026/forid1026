@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **foridsheek@gmail.com**
 
-- 📄 Know about my experiences [2+ Years](2+ Years)
+- 📄 Know about my experiences [2+ Years]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
