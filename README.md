@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forid1026" alt="forid1026" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
+<img align="right" width="300" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
 
 - 🌱 I’m currently learning **Rest Api & Vue JS**
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [2+ Years]
 
-<img align="right" width="400" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sfarid1026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sfarid1026" height="30" width="40" /></a>
