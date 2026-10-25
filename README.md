@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Forid Sheek</h1>
+<h1 align="center">Hi 👋, I'm Sheek Forid</h1>
 <h3 align="center">Full Stack Developer | Laravel & PHP Specialist</h3>
 
 <p align="center">
