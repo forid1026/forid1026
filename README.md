@@ -9,15 +9,17 @@
 
 <img align="right" width="350" src="https://i.ibb.co/YQ0Kcq8/coding.gif" alt="coding" border="0">
 
-- 🌱 I’m currently learning **Rest Api & Vue JS**
+🌱 I’m currently learning Golang
 
-- 👨‍💻 All of my projects are available at https://github.com/forid1026/
+👨‍💻 Explore my projects on GitHub
 
-- 💬 Ask me about **related to web development**
+🌐 Check out my Personal Portfolio to explore my projects, skills, and experience.
 
-- 📫 How to reach me **foridsheek@gmail.com**
+💬 Ask me about Laravel, PHP, Vue.js, Nuxt.js, REST APIs, and Full-Stack Development
 
-- 📄 Know about my experiences [4+ Years]
+📫 Reach me at foridsheek@gmail.com
+
+📄 4+ Years of Experience in Web Development
 
 <br><br>
 
